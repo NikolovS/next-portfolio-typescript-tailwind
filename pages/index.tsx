@@ -22,7 +22,7 @@ function index() {
         workers directly with Healthcare organisations without the need to work
         with an agency. Curis offers intuitive design, smart search, automated
         job notifications, and easy to manage invoicing. Also it has web admin
-        panel to manage the jobs
+        panel to manage the jobs.
       </h6>
       <motion.div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100"

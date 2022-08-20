@@ -147,4 +147,15 @@ export const projects: IProject[] = [
     category: ['react', 'nextjs', 'mongo'],
     key_techs: ['React', 'Material UI', 'NextJs'],
   },
+  {
+    id: 4,
+    name: 'Budgety',
+    description:
+      'This is simple serverless app, build using React and firebase.It is made to calculate your budget easy. You can add expenses and incomes and the total will be calculated for you. ',
+    image_path: '/images/budgety.png',
+    github_url: 'https://github.com/NikolovS/budgety',
+    deployed_url: 'https://budgety-a6dd3.firebaseapp.com/',
+    category: ['react', 'firebase'],
+    key_techs: ['React', 'Material UI', 'Firebase'],
+  },
 ];
